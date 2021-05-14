@@ -4,7 +4,7 @@
 ```
 Copy directory "src/plugins/vue-lang/" into plugins directory in your project
 
-Define your language constants in "src/plugins/vue-lang/languages.js"
+Define your language constants and pathes to language icons in "src/plugins/vue-lang/languages.js"
 
 Import and Use this VueLang.js in your main.js
 
