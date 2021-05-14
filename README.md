@@ -1,4 +1,4 @@
-# vue-lang
+# Vue-lang plugin
 
 This is simple but useful plugin for multilanguage vue application
 
