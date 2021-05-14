@@ -45,9 +45,9 @@ Vue.use(VueLang)
 
         <div v-if="currentLanguage==='english'" class="vue-lang-test_block"> This block is shown only when English is selected </div>
 
-        All styles you can change in "src/plugins/vue-lang/style.css"
+5. All styles you can change in "src/plugins/vue-lang/style.css"
 
-Vue-code of this page you can see in App.vue
+6. Vue-code of this page you can see in App.vue
 
 Good luck!
 ```
