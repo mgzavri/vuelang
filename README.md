@@ -2,7 +2,11 @@
 
 This is simple but useful plugin for multilanguage vue application
 
-## Plugin setup and usage
+## Demo
+
+https://mgzavri.github.io/vuelang/
+
+### Plugin setup and usage
 ```
 1. Copy directory "src/plugins/vue-lang/" into plugins directory in your project
 
@@ -53,5 +57,5 @@ Good luck!
 ```
 
 
-### Customize configuration
+#### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
